@@ -1,0 +1,6 @@
+package beans;
+
+public class Car {
+	private String carname;
+	private Engine engine;
+}

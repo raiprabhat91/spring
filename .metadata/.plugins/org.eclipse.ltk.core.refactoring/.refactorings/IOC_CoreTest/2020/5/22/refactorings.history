@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 packages to &apos;IOC_J2EETest/src&apos;&#x0D;&#x0A;- Original project: &apos;IOC_CoreTest&apos;&#x0D;&#x0A;- Destination element: &apos;IOC_J2EETest/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     IOC_CoreTest/src/test&#x0D;&#x0A;     IOC_CoreTest/src/beans&#x0D;&#x0A;     IOC_CoreTest/src/resources" description="Copy packages" destination="=IOC_J2EETest/src" element1="/src&lt;test" element2="/src&lt;beans" element3="/src&lt;resources" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1590566313969" version="1.0"/>
+</session>
