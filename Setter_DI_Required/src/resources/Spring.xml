@@ -1,0 +1,17 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+		  "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+		  
+<beans>
+
+	<!-- To activate required annotation  -->
+	<bean class="org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor"/>
+	
+	
+	<!-- MySql connection -->
+	<bean id="t" class="beans.Test">
+		<property name="driver" value="com.mysql.jdbc.Driver"/>
+		<property name="url" value="jdbc:mysql://localhost:3306/project"/>
+		<property name="user" value="prabhat1"/>
+		<property name="password" value="pvprai159"/>
+	</bean>
+</beans>
